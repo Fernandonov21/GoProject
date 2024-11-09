@@ -62,7 +62,7 @@ Open your web browser and go to http://127.0.0.1:8080 to see the "Hello, World!"
 The project has already a docker file so the only thing that you need is up the container
 1. In the terminal (you can use Command Prompt, PowerShell, or the VS Code integrated terminal), navigate to the project folder and execute the next command:
 ```bash
-docker build -t goptproject .
+docker build -t goproject .
 ```
 2. run the image
 ```bash
